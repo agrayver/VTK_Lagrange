@@ -1,1 +1,1 @@
-This program creates quad/hex meshes with a single Lagrange (high-order) cell of order n (1 <= n <= 10) and saves it in the VTK legacy format.
+This program creates quad/hex meshes with a single Lagrange (high-order) cell of order n (1 <= n <= 10) and saves it in the VTK legacy format. Can be used as a starting point to implement support for high-order elements in 3rd party libraries (e.g. FEM packages). 
